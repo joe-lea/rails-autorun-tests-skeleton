@@ -39,6 +39,8 @@ group :development, :test do
   gem 'guard-bundler'
   gem 'guard-rspec'
   gem 'guard-spork'
+
+  gem 'terminal-notifier-guard'
 end
 
 # Use ActiveModel has_secure_password
